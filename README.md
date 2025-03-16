@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**Circuitella/Circuitella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+> ## Whats A Circuitella?
+> A Circuitella Is A Fella Who Knows How To Code In Haxe & Small Bit In Lua And 
+> Primarily Does So For Friday Night Funkin Mods
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> [!WARNING]
+> you're going to be found dead in your sleep if you read all of this cause i can code
+> proof below
+
+```haxe
+var youifread:You = new You('stupid');
+var jeffsthekiller:JeffstheKiller;
+
+class YourLife
+{
+    public function new(?readthis:Bool = false)
+    {
+
+        if(readthis){
+            youifread = new You(stupid, fat)
+            add(youfiread);
+
+            jeffsthekiller = new Jeffsthekiller();
+            add(jeffsthekiller);
+
+            jeffsthekiller.sendtotarget(youifread);
+            trace("You're Fucked");
+        }
+        trace('Life Existing');
+    }
+}
+```
+
+
+
