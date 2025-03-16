@@ -27,6 +27,9 @@ class YourLife
             jeffsthekiller.sendtotarget(youifread);
             trace("You're Fucked");
         }
+        else{
+            readthis = true; //fuck you either way
+        }
         trace('Life Existing');
     }
 }
